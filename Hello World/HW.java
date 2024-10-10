@@ -10,7 +10,7 @@ public class HW {
 			ch=str.charAt(i);
 			nstr = ch + nstr;
 		}
-		System.out.print(nstr);
+		System.out.println(nstr);
 
 	}
 
